@@ -2,4 +2,4 @@ testing purpose
 
 i am testing git
 this if for learning git
-i am just prcaticing
+i am just practicing 
